@@ -1,3 +1,4 @@
 # Belly Button Biodiversity
 
-I used Plotly to create charts exploring a database saved as a sqlite file. Website served using Flask and is deployed on Heroku. https:// https://plotly---challenge.herokuapp.com/ 
+The URL here serves as using Flask and is deployed through Heroku - https:// https://plotly---challenge.herokuapp.com/ 
+Meaning I used Plotly to create charts exploring a database saved as a sqlite file.
